@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "monkey-chunkey-app",
+    "slug": "snack-59502b9c-642e-4a44-92f8-b99971eb5750",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Complete Monkey Chunkey App"
+  }
+}
